@@ -27,24 +27,22 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
 
 ### list of my references </br>
-WEB
-  -WORDPRESS</br>
-      - http://soyosushi.ma/
-      - https://sanipro.ma/
-      - https://imprimilya.ma/
-      - http://unitedmachinery.ma/
-      - http://mathadore.ma/
-      - https://www.continental-bay.com/
-      - http://yassirimport.com/
-      - https://akservicewash.com/
-      - https://minimariposa.com/
-      - https://n-optic.com/
-  - PHP
-      - https://codshop.ma/
-      - http://colivraison.ma/
-      - http://sebbarstore.com/
-MOBILE
-  - FLUTTER
+  - WORDPRESS </br>
+      - http://soyosushi.ma/ </br>
+      - https://sanipro.ma/  </br>
+      - https://imprimilya.ma/ </br>
+      - http://unitedmachinery.ma/ </br>
+      - http://mathadore.ma/ </br>
+      - https://www.continental-bay.com/ </br>
+      - http://yassirimport.com/ </br>
+      - https://akservicewash.com/ </br>
+      - https://minimariposa.com/  </br>
+      - https://n-optic.com/ </br>
+  - PHP </br>
+      - https://codshop.ma/ </br>
+      - http://colivraison.ma/ </br>
+      - http://sebbarstore.com/ </br>
+  - FLUTTER </br>
       - <a href="https://play.google.com/store/apps/details?id=ma.aefacture.aefacture" /> AE Facture </a>
       - Mobile app for colivraison
 </div>
