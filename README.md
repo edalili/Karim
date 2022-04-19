@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 
 - 🔭 I’m currently working on <a href="http://jokesigner.com/">jokesigner</a> as Fullstack Developer.
-- 👀 I’m interested in Mobile App Development.
+- 👀 I’m interested on WEB 3.
 - 🌱 I’m currently learning more about Mobile App Development.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/edalili-abdelkarim-325ba21a2/)
 
