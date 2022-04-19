@@ -10,9 +10,6 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning more about Mobile App Development.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/edalili-abdelkarim-325ba21a2/)
 
-[![Linkedin: Edalili Abdelkarim](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edalili-abdelkarim-325ba21a2//)](https://www.linkedin.com/in/edalili-abdelkarim-325ba21a2/)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://edaliliabdelkarim.com/)
-
 
 **Languages and Tools:**</br></br>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
